@@ -1,5 +1,5 @@
 variavel,descricao,tipo,subtipo
-survived,Indica se a pessoa sobreviveu ou não,qualitativa,nominal
+survived,Indica se a pessoa sobreviveu ou não,quantitativa,discreta
 pclass,Classe do passageiro no navio,qualitativa,ordinal
 sex,Sexo do passageiro,qualitativa,nominal
 age,Idade do passageiro,quantitativa,contínua
