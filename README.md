@@ -26,5 +26,5 @@ Os notebooks estão localizados no diretório ``notebooks/`` e contêm as seguin
 - Homens com maiores chances de sobreviver eram em geral mais jovens do que as mulheres sobreviventes
 - Passageiros da terceira classe eram em média mais jovens do que os das classes superiores
 
-### Comparação de modelos de predição
+### Comparação de modelos de classificação
 - O modelo K-Nearest Neighbors obteve os resultados mais confiáveis nos testes de acurácia, precisão, recall e F1-score.
