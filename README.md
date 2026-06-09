@@ -13,9 +13,9 @@ Projeto de ciência de dados para investigar padrões de sobrevivência dos pass
 Os notebooks estão localizados no diretório ``notebooks/`` e contêm as seguintes documentações:
 | **Notebook** | **Descrição** |
 | :------- | :------ |
-| ``00-download_data.ipynb`` | Obtenção dos dados e construção do dicionário de dados. |
-| ``01-exploratory_data_analysis.ipynb`` | Análise exploratória dos dados: estatísticas descritivas, distribuições, dados faltantes e investigação de padrões de sobrevivência por meio de visualizações. |
-| ``02-comparative-analysis.ipynb`` | Pré-processamento com pipelines do scikit-learn e comparação de modelos de classificação avaliados por acurácia, precisão, recall e F1-score. |   
+| [00-download_data.ipynb](https://github.com/simires/avanti-bootcamp-cdd/blob/master/notebooks/00-download_data.ipynb) | Obtenção dos dados e construção do dicionário de dados. |
+| [01-exploratory_data_analysis.ipynb](https://github.com/simires/avanti-bootcamp-cdd/blob/master/notebooks/01-exploratory_data_analysis.ipynb) | Análise exploratória dos dados: estatísticas descritivas, distribuições, dados faltantes e investigação de padrões de sobrevivência por meio de visualizações. |
+| [02-comparative-analysis.ipynb](https://github.com/simires/avanti-bootcamp-cdd/blob/master/notebooks/02-comparative-analysis.ipynb) | Pré-processamento com pipelines do scikit-learn e comparação de modelos de classificação avaliados por acurácia, precisão, recall e F1-score. |   
 
 ## Resultados
 
