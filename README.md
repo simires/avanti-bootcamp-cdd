@@ -1,6 +1,6 @@
-# <Título do projeto>
+# Análise e Predição de Sobreviventes do Titanic
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Projeto de ciência de dados para investigar padrões de sobrevivência dos passageiros do Titanic, com base na base de dados Titanic - Machine Learning from Disaster. Inclui análise exploratória dos dados e comparação de quatro algoritmos de classificação — KNN, Árvore de Decisão, Regressão Logística e Naive Bayes — com validação cruzada K-Fold e otimização de hiperparâmetros via GridSearchCV. Este projeto foi desenvolvido como atividade do Bootcamp de Ciência de Dados da [Escola Atlantico Avanti](https://lp.atlanticoavanti.com.br/bootcamp).
 
 ## Desenvolvedores
  - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
